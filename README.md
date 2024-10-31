@@ -1,8 +1,8 @@
 ### Olá eu sou o Celso Reis
 
-- 🌐 Sou Analista de Sistemas, pós-graduado em Engenharia de Software.
+- 🌐 Sou Analista de Sistemas.
 - 👨🏻‍💻 Trabalho como desenvolvedor web e mobile.
-- 📲 Procuro colaborar em projetos web e mobile.
+- 📲 Procuro colaborar em projetos Python.
 - 📞 62 9 8626-3012.
 - 📩 celsosr87@gmail.com.
 
