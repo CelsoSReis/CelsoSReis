@@ -49,10 +49,10 @@ Busco oportunidades desafiadoras que valorizem o desenvolvimento de software de 
     [![My Skills](https://skillicons.dev/icons?i=python,javascript)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=django,react,reactnative)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=django,react,bootstrap)](https://skillicons.dev)
 - Dados: 
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
