@@ -1,7 +1,3 @@
-
-- 📞 62 9 8626-3012.
-- 📩 celsosr87@gmail.com.
-
 ### Principais skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Reis-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -50,10 +46,10 @@ Busco oportunidades desafiadoras que valorizem o desenvolvimento de software de 
 
 - Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=python,javascript)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=django,react,reactnative)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
