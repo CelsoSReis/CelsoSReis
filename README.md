@@ -40,7 +40,12 @@
 
 ## 👋 Olá!
 
-Sou desenvolvedor backend apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
+Graduado em Análise e Desenvolvimento de Sistemas, Iniciei minha carreira como desenvolvedor em 2022, quando tive a oportunidade de desenvolver um sistema em php que atendesse as demandas administrativas de uma instituição em que eu fazia parte.
+
+Atuo como desenvolvedor backend, e ao longo de minha jornada venho desenvolvendo algumas aplicações web utilizando a linguagem python e o framework Django sempre buscando novos aprendizados, soluções inovadoras e eficientes.
+
+Busco oportunidades desafiadoras que valorizem o desenvolvimento de software de alta qualidade acompanhando as últimas tendências em tecnologia e desenvolvimento web.
+
 
 ## 🚀 Habilidades Técnicas
 
