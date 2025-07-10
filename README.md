@@ -23,16 +23,6 @@
   <img align="center" alt="Reis-Flutter" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Reis-Flutter" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
 
-##
-
-<div>
-  <a href="https://github.com/CelsoSReis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CelsoSReis&show_icons=true&theme=dark" />
-  </a>
-  <a href="https://github.com/CelsoSReis">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CelsoSReis&hide_progress=true&theme=dark" />
-  </a>
-</div>
 
 ##
 
