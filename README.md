@@ -2,7 +2,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
+  Graduado em Análise e Desenvolvimento de Sistemas, Iniciei minha carreira como desenvolvedor em 2022, quando tive a oportunidade de desenvolver um sistema em php que atendesse as demandas administrativas de uma instituição em que eu fazia parte.
+
+Atuo como desenvolvedor backend, e ao longo de minha jornada venho desenvolvendo algumas aplicações web utilizando a linguagem python e o framework Django sempre buscando novos aprendizados, soluções inovadoras e eficientes.
+
+Busco oportunidades desafiadoras que valorizem o desenvolvimento de software de alta qualidade acompanhando as últimas tendências em tecnologia e desenvolvimento web. 
+<strong>sua stack</strong>.<br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
