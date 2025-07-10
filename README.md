@@ -1,7 +1,4 @@
-### Olá, meu nome é Celso Reis!
 
-- 🌐 Sou Analista de Sistemas.
-- 👨🏻‍💻 Trabalho como desenvolvedor Backend.
 - 📲 Procuro colaborar em projetos Python.
 - 📞 62 9 8626-3012.
 - 📩 celsosr87@gmail.com.
@@ -37,14 +34,13 @@
   <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer">
 </div>
 
-# [Seu Nome]
-
+# Celso Reis
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-[SeuPerfil]-blue?logo=linkedin)](https://www.linkedin.com/in/[SeuPerfil])
 [![Website](https://img.shields.io/badge/Website-[SeuWebsite]-blue?logo=google-chrome)](https://www.[seusite.com])
 
 ## 👋 Olá!
 
-Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
+Sou desenvolvedor backend apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
 
 ## 🚀 Habilidades Técnicas
 
