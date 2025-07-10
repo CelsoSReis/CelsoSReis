@@ -1,5 +1,4 @@
 
-- 📲 Procuro colaborar em projetos Python.
 - 📞 62 9 8626-3012.
 - 📩 celsosr87@gmail.com.
 
@@ -35,8 +34,8 @@
 </div>
 
 # Celso Reis
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[SeuPerfil]-blue?logo=linkedin)](https://www.linkedin.com/in/[SeuPerfil])
-[![Website](https://img.shields.io/badge/Website-[SeuWebsite]-blue?logo=google-chrome)](https://www.[seusite.com])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[CelsoReis]-blue?logo=linkedin)](https://www.linkedin.com/in/celso-reis-dev)
+[![Website](https://img.shields.io/badge/Website-[CelsoReis]-blue?logo=google-chrome)](https://github.com/CelsoSReis)
 
 ## 👋 Olá!
 
