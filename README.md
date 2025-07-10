@@ -37,7 +37,7 @@ Busco oportunidades desafiadoras que valorizem o desenvolvimento de software de 
 ## 🏆 Projetos Destacados
 
 - [Sistema para Gestão de Igrejas](https://github.com/CelsoSReis/Sistema-Gest-o-de-Igrejas-python3-django): Uma descrição breve do projeto e suas principais características.
-- [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma descrição breve do projeto e suas principais características.
+- [Sistema para Gerenciamento de Laboratório de Exames Clínicos](https://github.com/CelsoSReis/soft_lab_clinico): Uma descrição breve do projeto e suas principais características.
 - [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma descrição breve do projeto e suas principais características.
 
 
