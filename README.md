@@ -38,9 +38,8 @@ Busco oportunidades desafiadoras que valorizem o desenvolvimento de software de 
 
 - [Sistema para Gestão de Igrejas](https://github.com/CelsoSReis/Sistema-Gest-o-de-Igrejas-python3-django): Completo e fácil de usar, desenvolvido para auxiliar na administração de membros, departamentos, eventos, contribuições, relatórios e muito mais..
 - [Sistema para Gerenciamento de Laboratório de Exames Clínicos](https://github.com/CelsoSReis/soft_lab_clinico): Desenvolvido para otimizar o atendimento, o agendamento de exames, o controle de pacientes, médicos e convênios, além da geração de laudos, etiquetas e relatórios. Agilidade, precisão e organização em um só lugar.
-- [Aplicação para teleconsulta](https://github.com/CelsoSReis/med): Uma descrição breve do projeto e suas principais características.
+- [Aplicação para teleconsulta](https://github.com/CelsoSReis/med): Software de Teleconsulta moderno e seguro, ideal para conectar médicos e pacientes com praticidade. Permite agendamentos, videochamadas, prontuário eletrônico e envio de receitas digitais, tudo em um ambiente confiável e fácil de usar.
 
 
-Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
+Estou aberto a novas oportunidades e pronto para contribuir com projetos desafiadores. Recrutadores e empresas que desejarem conhecer mais sobre meu trabalho, fiquem à vontade para entrar em contato. Será um prazer conversar! 😊
 
-E-mail: celsosr87@gmail.com
