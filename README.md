@@ -4,24 +4,10 @@
 <p align="left"> 
   Graduado em Análise e Desenvolvimento de Sistemas, Iniciei minha carreira como desenvolvedor em 2022, quando tive a oportunidade de desenvolver um sistema em php que atendesse as demandas administrativas de uma instituição em que eu fazia parte.
 
-Atuo como desenvolvedor backend, e ao longo de minha jornada venho desenvolvendo algumas aplicações web utilizando a linguagem python e o framework Django sempre buscando novos aprendizados, soluções inovadoras e eficientes.
+Atuo como desenvolvedor backend, e ao longo de minha jornada venho desenvolvendo algumas aplicações web utilizando a linguagem <strong>python e o framework Django</strong> sempre buscando novos aprendizados, soluções inovadoras e eficientes.
 
-Busco oportunidades desafiadoras que valorizem o desenvolvimento de software de alta qualidade acompanhando as últimas tendências em tecnologia e desenvolvimento web. 
-<strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
-</p>
+Busco oportunidades desafiadoras que valorizem o desenvolvimento de software de alta qualidade acompanhando as últimas tendências em tecnologia e desenvolvimento web.
 
-<p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
-</p>
-
-<p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
-</p>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
 
 <p align="left">
   <a href="#" title="Gmail">
