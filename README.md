@@ -1,4 +1,4 @@
-### Olá meu nome é Celso Reis
+### Olá, meu nome é Celso Reis!
 
 - 🌐 Sou Analista de Sistemas.
 - 👨🏻‍💻 Trabalho como desenvolvedor Backend.
