@@ -36,7 +36,7 @@ Busco oportunidades desafiadoras que valorizem o desenvolvimento de software de 
 
 ## 🏆 Projetos Destacados
 
-- [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição breve do projeto e suas principais características.
+- [Sistema para Gestão de Igrejas](https://github.com/CelsoSReis/Sistema-Gest-o-de-Igrejas-python3-django): Uma descrição breve do projeto e suas principais características.
 - [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma descrição breve do projeto e suas principais características.
 - [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma descrição breve do projeto e suas principais características.
 
